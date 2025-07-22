@@ -5,7 +5,7 @@
 
 <h3>Socials:</h3>
 <p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-rajput/)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 
 <h3>When I code, I rely on</h3>
