@@ -5,8 +5,9 @@
 
 <h3>Socials:</h3>
 <p>
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</p>
+  <a href="https://www.linkedin.com/in/bhavesh-rajput/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a></p>
 
 <h3>When I code, I rely on</h3>
 <p>
