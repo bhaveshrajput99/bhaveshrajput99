@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bhavesh Rajput!
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=green)
 <!--
 **bhaveshrajput99/bhaveshrajput99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
