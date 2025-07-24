@@ -47,3 +47,5 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
+
+![Bhavesh Rajput's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshrajput99&theme=transparent&hide_border=true&hide=issues,contribs&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshrajput99&layout=compact&card_width=320&theme=transparent&hide_border=true&langs_count=4&hide=cython,Tcl)
