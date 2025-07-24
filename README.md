@@ -2,15 +2,15 @@
 
 ![Banner](https://github.com/user-attachments/assets/427d2674-f58d-4be0-98c1-772f0ebf86be)
 
-![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blueviolet&style=flat)
-
-<h3>Socials:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/bhavesh-rajput/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a></p>
+  I am a skilled Data Analyst currently working at TCS. I use Python, SQL, Power BI, and advanced Excel to create insightful dashboards and analyze complex data. I turn raw information into clear, actionable recommendations that help businesses make informed decisions.
+  I have experience working with diverse teams and clients, always focusing on delivering projects that bring real value. With strong communication and collaboration skills, I help organizations confidently leverage data to drive better results.
+</p>
 
-<h3>When I code, I rely on</h3>
+![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blue&style=for-the-badge) <a href="https://www.linkedin.com/in/bhavesh-rajput/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+
+<h3>Languages and Tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
