@@ -1,4 +1,4 @@
-## Hi there👋🏻, I'm Bhavesh Rajput!
+## Hi, I'm Bhavesh Rajput👋🏻👨🏻‍💻
 
 
 ![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blueviolet&style=flat)
