@@ -1,4 +1,4 @@
-## Hi there <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/0bd25c44-3a45-4a04-b8d3-9fac9aaefd74" />, I'm Bhavesh Rajput!
+## Hi there <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/98573377-fb0b-4d2b-ac0c-5be798cb01ac" />, I'm Bhavesh Rajput!
 
 
 ![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blueviolet&style=flat)
