@@ -1,6 +1,6 @@
 ## Hi, I'm Bhavesh Rajput👋🏻💻
 
-![Banner](https://github.com/user-attachments/assets/21c9b87d-7069-489a-8658-d3a36833494f)
+![Banner](https://github.com/user-attachments/assets/427d2674-f58d-4be0-98c1-772f0ebf86be)
 
 ![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blueviolet&style=flat)
 
