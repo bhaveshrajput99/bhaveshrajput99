@@ -1,6 +1,6 @@
 # Hi, I'm Bhavesh Rajput👋🏻💻
 
-![Banner](https://github.com/bhaveshrajput99/bhaveshrajput99/edit/main/Display_Banner.gif)
+![Banner](https://github.com/bhaveshrajput99/bhaveshrajput99/blob/main/Display%20Banner.gif)
 
 <p>
   I am a skilled Data Analyst currently working at TCS. I use Python, SQL, Power BI, and advanced Excel to create insightful dashboards and analyze complex data. I turn raw information into clear, actionable recommendations that help businesses make informed decisions.
