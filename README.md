@@ -1,4 +1,4 @@
-## Hi there👋🏻, I'm Bhavesh Rajput!
+## Hi there👋🏻<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/08636234-1d31-44c3-bb89-8eb301d4d99d" /> , I'm Bhavesh Rajput!
 
 
 ![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blueviolet&style=flat)
