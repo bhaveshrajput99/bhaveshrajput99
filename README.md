@@ -9,6 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blue&style=for-the-badge) <a href="https://www.linkedin.com/in/bhavesh-rajput/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+<div align="center">
 
 <h3>Languages and Tools</h3>
 <p>
@@ -47,5 +48,10 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
+</div>
 
+<div align="center">
+  
 ![Bhavesh Rajput's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshrajput99&theme=transparent&hide_border=true&hide=issues,contribs&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshrajput99&layout=compact&card_width=320&theme=transparent&hide_border=true&langs_count=4&hide=cython,Tcl)
+
+</div>
