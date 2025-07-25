@@ -7,7 +7,7 @@
   I have experience working with diverse teams and clients, always focusing on delivering projects that bring real value. With strong communication and collaboration skills, I help organizations confidently leverage data to drive better results.
 </p>
 
-![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blue&style=for-the-badge) <a href="https://www.linkedin.com/in/bhavesh-rajput/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+![](https://komarev.com/ghpvc/?username=bhaveshrajput99&color=blue&style=for-the-badge) <a href="https://medium.com/@bhavesh.rajput.9010" target="_blank"><img src="https://img.shields.io/badge/medium-white.svg?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/></a> <a href="https://www.linkedin.com/in/bhavesh-rajput/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 <div align="center">
